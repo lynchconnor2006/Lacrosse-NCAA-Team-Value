@@ -1,0 +1,78 @@
+off_eff_rank,team,off_efficiency,def_efficiency,cumulative_efficiency
+1,Richmond,38.6,24.6,43.0
+2,Princeton,36.2,26.1,39.1
+3,Harvard,34.9,30.0,33.9
+4,Towson,34.6,26.6,37.0
+5,Duke,34.0,25.3,37.7
+6,Virginia,33.9,28.5,34.4
+7,Yale,33.9,28.7,34.2
+8,Jacksonville,33.6,23.4,39.2
+9,Notre Dame,33.6,25.7,36.9
+10,Utah,33.5,25.1,37.4
+11,Georgetown,33.4,26.1,36.3
+12,Syracuse,33.4,29.2,33.2
+13,Stony Brook,33.2,28.5,33.7
+14,North Carolina,33.1,29.3,32.8
+15,Sacred Heart,33.1,28.6,33.5
+16,Loyola,33.0,31.2,30.8
+17,Penn State,33.0,25.9,36.1
+18,LIU,32.0,26.8,34.2
+19,Navy,31.7,34.0,26.7
+20,Marist,31.6,28.1,32.5
+21,UMass,31.5,26.1,34.4
+22,Army,31.5,22.9,37.6
+23,Lehigh,31.4,27.6,32.8
+24,Saint Joseph's,31.3,30.2,30.1
+25,Monmouth,31.1,30.3,29.8
+26,Bucknell,31.1,28.7,31.4
+27,Bellarmine,30.8,34.0,25.8
+28,Siena,30.6,28.0,31.6
+29,Johns Hopkins,30.3,28.0,31.3
+30,Boston U,30.2,30.3,28.9
+31,Cornell,30.2,27.8,31.4
+32,Drexel,30.1,26.5,32.6
+33,Air Force,29.9,33.6,25.3
+34,Marquette,29.8,32.0,26.8
+35,VMI,29.6,32.9,25.7
+36,Robert Morris,29.4,23.5,34.9
+37,Dartmouth,29.3,32.3,26.0
+38,High Point,29.2,34.4,23.8
+39,Michigan,28.7,28.0,29.7
+40,Maryland,28.7,26.1,31.6
+41,Albany,28.6,28.4,29.2
+42,Brown,28.6,31.2,26.4
+43,Fairfield,28.5,31.5,26.0
+44,NJIT,28.1,27.6,29.5
+45,Penn,28.1,32.1,25.0
+46,Hofstra,28.0,29.1,27.9
+47,Quinnipiac,28.0,30.0,27.0
+48,Vermont,27.6,28.9,27.7
+49,Providence,27.6,29.3,27.3
+50,Holy Cross,27.3,31.3,25.0
+51,Villanova,27.2,29.6,26.6
+52,Merrimack,27.1,29.8,26.3
+53,Denver,26.7,23.2,32.5
+54,Bryant,26.7,26.6,29.1
+55,Mercer,26.6,34.2,21.4
+56,Lafayette,26.5,30.4,25.1
+57,Rutgers,26.5,25.9,29.6
+58,Queens,26.3,31.2,24.1
+59,Mount St Marys,26.3,32.8,22.5
+60,St. Bonaventure,25.8,33.4,21.4
+61,Ohio State,25.8,21.4,33.4
+62,St. John's,25.7,33.2,21.5
+63,Manhattan,25.5,31.1,23.4
+64,Colgate,25.4,29.8,24.6
+65,Cleveland State,25.2,29.0,25.2
+66,Hobart,25.2,32.0,22.2
+67,UMBC,25.0,28.0,26.0
+68,Wagner,24.9,29.1,24.8
+69,Hampton,24.8,40.9,12.9
+70,Delaware,23.9,30.4,22.5
+71,Le Moyne,23.9,29.1,23.8
+72,Mercyhurst,23.2,34.3,17.9
+73,Iona,22.7,35.0,16.7
+74,Canisius,22.4,30.7,20.7
+75,UMass-Lowell,22.2,31.8,19.4
+76,Binghamton,20.8,26.9,22.9
+77,Detroit,20.2,29.8,19.4
